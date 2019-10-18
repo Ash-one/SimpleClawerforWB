@@ -54,4 +54,4 @@ def KeyWordClawer(filename:str, keyword:str):
 
 
 if __name__ == "__main__":
-    KeyWordClawer("死马.txt","死马")
+    KeyWordClawer("/examples/死马.txt","死马")

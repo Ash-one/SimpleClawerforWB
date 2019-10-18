@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM">
-    <file url="file://$PROJECT_DIR$/cnm.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/你妈的.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/你麻痹.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/傻哔.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/弱智.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/我日.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/死马.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/煞笔.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/脑残.txt" charset="GBK" />
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/examples/cnm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/examples/你妈的.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/examples/你麻痹.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/examples/傻哔.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/examples/弱智.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/examples/我日.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/examples/死马.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/examples/煞笔.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/examples/脑残.txt" charset="GBK" />
   </component>
 </project>
